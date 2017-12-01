@@ -4,5 +4,3 @@ run-apex-tests: false
 delete-scratch-org: false
 show-scratch-org-url: true
 generate-password: true
-data-import:
-  - data/masterImportPlan.json
