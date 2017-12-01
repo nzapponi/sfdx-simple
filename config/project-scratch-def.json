@@ -1,5 +1,5 @@
 {
-  "country": "US",
+  "country": "GB",
   "edition": "Developer",
   "orgPreferences": {
     "enabled": [
@@ -7,6 +7,5 @@
     ],
     "disabled": []
   },
-  "orgName": "Adidas",
-  "adminEmail": "nzapponi@salesforce.com"
+  "orgName": "the-wizard"
 }
