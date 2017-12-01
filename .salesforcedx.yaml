@@ -1,5 +1,9 @@
 scratch-org-def: config/project-scratch-def.json
-assign-permset: false
-run-apex-tests: true
+assign-permset: true
+permset-name: TheWizardApp
+run-apex-tests: false
 delete-scratch-org: false
 show-scratch-org-url: true
+generate-password: true
+data-import:
+  - data/masterImportPlan.json
